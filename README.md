@@ -1,4 +1,4 @@
-roject Overview This is a web application that allows users to submit and view ratings for various stores. It features a single login system with three distinct user roles: System Administrator, Normal User, and Store Owner. Each role has access to specific functionalities tailored to their permissions.
+Project Overview This is a web application that allows users to submit and view ratings for various stores. It features a single login system with three distinct user roles: System Administrator, Normal User, and Store Owner. Each role has access to specific functionalities tailored to their permissions.
 
 Tech Stack Frontend: ReactJS, Tailwind CSS
 
